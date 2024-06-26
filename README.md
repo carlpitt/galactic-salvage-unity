@@ -1,2 +1,3 @@
-# galactic-salvage-unity
-A platformer made in Unity
+# Galactic Salvage
+
+This project is a platformer made in Unity for a course.
